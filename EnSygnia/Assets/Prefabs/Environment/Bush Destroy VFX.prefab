@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2282628400876584615
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256354100959682723, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4214236662891624894, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: eb9820b20fdee9143966e83524a08dee, type: 2}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: SizeModule.enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: RotationModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: RotationModule.curve.scalar
+      value: -3.1415925
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: RotationModule.separateAxes
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: RotationModule.x.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: RotationModule.y.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: RotationModule.curve.minScalar
+      value: 3.1415925
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408107907946462200, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: RotationModule.curve.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817139068566329509, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
+      propertyPath: m_Name
+      value: Bush Destroy VFX
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf609f11f4cf55e4f9aa187d045fcc4f, type: 3}
